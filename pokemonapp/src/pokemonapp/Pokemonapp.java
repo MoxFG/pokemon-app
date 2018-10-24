@@ -5,6 +5,8 @@
  */
 package pokemonapp;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author alumno
